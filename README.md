@@ -5,3 +5,4 @@ Added controls section
 Added credits section
 Fixed typo in controls section
 Added installation instructions
+Updated gameplay tips
