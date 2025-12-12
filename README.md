@@ -3,3 +3,4 @@
 Added basic game description
 Added controls section
 Added credits section
+Fixed typo in controls section
